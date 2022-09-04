@@ -9,4 +9,4 @@ A Personalized Twitch Resources Recommendation Website.
 ![](https://github.com/JuquanYu/Twitch-Plus/blob/master/img/twitch-demo-2.gif)
 
 ## License
-[NYU©Juquan Yu.](../LICENSE)
+[NYU©JuquanYu.](../LICENSE)
