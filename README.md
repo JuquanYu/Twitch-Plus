@@ -1,5 +1,5 @@
 # Twitch-Plus
-A Personalized Twitch Resources Recommendation Website
+A Personalized Twitch Resources Recommendation Website.
 
 ## Demo
 ### Login / logout
