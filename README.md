@@ -3,10 +3,10 @@ A Personalized Twitch Resources Recommendation Website
 
 ## Demo
 ### Login / logout
-![](https://github.com/YuJuquan/Chat-Robot/blob/master/demoimg/search%20bot.gif)
+![](https://github.com/JuquanYu/Twitch-Plus/blob/master/img/twitch-demo-1.gif)
+
 ### Search / Collect Favorites
-![](https://github.com/YuJuquan/Chat-Robot/blob/master/demoimg/search%20bot.gif)
+![](https://github.com/JuquanYu/Twitch-Plus/blob/master/img/twitch-demo-2.gif)
 
 ## License
-
 [NYU©Juquan Yu.](../LICENSE)
